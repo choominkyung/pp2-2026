@@ -16,7 +16,7 @@
 
 
  * week4 ( 4주차 실습파일)
-   * chapter08.ipynb(4주차 객체와클래스 복습 및 lab, exericse 실습파일과제)
+   * larn8.ipynb(4주차 객체와클래스 복습 및 lab, exericse 실습파일과제)
 
 
 -  gitingore (github에 올리지 않을 파일을 지정하는 파일)
